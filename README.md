@@ -1,0 +1,2 @@
+# linkmon
+fortigate link monitor
