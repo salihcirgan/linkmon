@@ -1,2 +1,2 @@
 # linkmon
-fortigate link monitor
+Monitoring Fortigate link monitor state.
